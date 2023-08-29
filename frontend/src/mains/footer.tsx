@@ -1,9 +1,7 @@
-import React, { forwardRef, useEffect, useRef, useState } from 'react'
 import { Canvas } from '@react-three/fiber'
 import Button from '../components/Button'
 import {Earth} from "../Earth"
-import {OrbitControls} from "@react-three/drei"
-import { Html } from '@react-three/drei'
+
 const footer = () => {
   return (
     <footer className='p-10 pb-0 flex md:flex-row flex-col gap-2'>

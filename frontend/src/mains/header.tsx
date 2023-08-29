@@ -1,5 +1,4 @@
-import React, { useEffect, useState } from 'react'
-import Logo from '../components/Logo'
+import React, { useState } from 'react'
 import girlVideo from "../assets/waste_images/videos/istockphoto-1164875873-640_adpp_is.mp4"
 import motherVideo from "../assets/waste_images/videos/istockphoto-889032148-640_adpp_is.mp4"
 import ladyVideo from "../assets/waste_images/videos/istockphoto-1323692175-640_adpp_is.mp4"

@@ -46,6 +46,7 @@ const servicesReducer:servicesReducerType= (state = initialState, action)=>{
                 return newState
             default:
                 let nothing: never = action.type;
+                nothing
                 return state;
         }
 };

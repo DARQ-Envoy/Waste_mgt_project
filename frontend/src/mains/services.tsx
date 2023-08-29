@@ -1,5 +1,5 @@
 import React from 'react'
-import { useSelector, useDispatch } from 'react-redux';
+import { useSelector} from 'react-redux';
 import {AllserviceType} from '../Redux/services/reducer'
 import { GlobalState } from '../Redux/store';
 import Service from '../components/Service';
